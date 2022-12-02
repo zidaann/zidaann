@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, <br>I'm Ahmad Jourji Zaidan <br>I'm from Pasuruan, East Java<br>I'm Student From Universitas Negeri Surabaya
+Hi, <br>I'm Ahmad Jourji Zaidan <br>I'm from Pasuruan, East Java<br>I'm Student From Surabaya State University
 
 
 ## 🌐 Socials:
