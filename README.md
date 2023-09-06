@@ -23,5 +23,4 @@ I am Zaidan, a Front-End Developer well-versed in popular frameworks such as Rea
 
 
 
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
